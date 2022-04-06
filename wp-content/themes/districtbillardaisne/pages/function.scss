@@ -1,0 +1,5 @@
+$max-width: 1400px;
+
+@function rem($size, $base: 16){
+  @return round((1rem*$size/$base)*100)/100;
+}

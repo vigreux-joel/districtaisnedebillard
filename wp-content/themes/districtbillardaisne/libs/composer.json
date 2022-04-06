@@ -1,0 +1,12 @@
+{
+    "name": "autor/dab",
+    "authors": [
+        {
+            "name": "Guardark",
+            "email": "vigreux.joel@hotmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}

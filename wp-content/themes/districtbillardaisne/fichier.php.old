@@ -1,0 +1,8 @@
+<?php
+/* Template Name: nouveau template */
+?>
+
+<?php get_header()?>
+
+<h1>bonjour vous etes sur le nouveau template</h1>
+<?php get_footer()?>

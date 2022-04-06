@@ -1,0 +1,10 @@
+$max-width: 1200px;
+
+$color1: #34A58A;
+$color2: #6B5B54;
+$color3: #345765;
+
+
+@function rem($size, $base: 16){
+  @return round((1rem*$size/$base)*100)/100;
+}

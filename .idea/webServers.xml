@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f3a0242-e21e-40cd-b6a8-95c9ffe6e57a" name="districtaisnedebillard">
+        <fileTransfer rootFolder="/home/distrif" accessType="SFTP" host="ssh.cluster031.hosting.ovh.net" port="22" sshConfigId="79f64224-01ab-46f0-952a-38ba55efa760" sshConfig="distrif@ssh.cluster031.hosting.ovh.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

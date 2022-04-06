@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ssh.cluster031.hosting.ovh.net" id="79f64224-01ab-46f0-952a-38ba55efa760" port="22" nameFormat="DESCRIPTIVE" username="distrif" />
+    </configs>
+  </component>
+</project>
